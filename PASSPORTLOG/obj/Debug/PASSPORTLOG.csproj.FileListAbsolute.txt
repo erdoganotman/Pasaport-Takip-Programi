@@ -1,0 +1,15 @@
+C:\Users\erdog\source\repos\PASSPORTLOG\PASSPORTLOG\bin\Debug\PASSPORTLOG.exe.config
+C:\Users\erdog\source\repos\PASSPORTLOG\PASSPORTLOG\bin\Debug\PASSPORTLOG.exe
+C:\Users\erdog\source\repos\PASSPORTLOG\PASSPORTLOG\bin\Debug\PASSPORTLOG.pdb
+C:\Users\erdog\source\repos\PASSPORTLOG\PASSPORTLOG\obj\Debug\PASSPORTLOG.csproj.AssemblyReference.cache
+C:\Users\erdog\source\repos\PASSPORTLOG\PASSPORTLOG\obj\Debug\PASSPORTLOG.csproj.SuggestedBindingRedirects.cache
+C:\Users\erdog\source\repos\PASSPORTLOG\PASSPORTLOG\obj\Debug\PASSPORTLOG.Form1.resources
+C:\Users\erdog\source\repos\PASSPORTLOG\PASSPORTLOG\obj\Debug\PASSPORTLOG.Properties.Resources.resources
+C:\Users\erdog\source\repos\PASSPORTLOG\PASSPORTLOG\obj\Debug\PASSPORTLOG.csproj.GenerateResource.cache
+C:\Users\erdog\source\repos\PASSPORTLOG\PASSPORTLOG\obj\Debug\PASSPORTLOG.csproj.CoreCompileInputs.cache
+C:\Users\erdog\source\repos\PASSPORTLOG\PASSPORTLOG\obj\Debug\PASSPORTLOG.exe
+C:\Users\erdog\source\repos\PASSPORTLOG\PASSPORTLOG\obj\Debug\PASSPORTLOG.pdb
+C:\Users\erdog\source\repos\PASSPORTLOG\PASSPORTLOG\obj\Debug\PASSPORTLOG.Form2.resources
+C:\Users\erdog\source\repos\PASSPORTLOG\PASSPORTLOG\obj\Debug\PASSPORTLOG.Form3.resources
+C:\Users\erdog\source\repos\PASSPORTLOG\PASSPORTLOG\obj\Debug\PASSPORTLOG.Form4.resources
+C:\Users\erdog\source\repos\PASSPORTLOG\PASSPORTLOG\obj\Debug\PASSPORTLOG.Form5.resources
